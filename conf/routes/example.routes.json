@@ -1,0 +1,4 @@
+{
+  "hello_world": "hello/hello_world.js",
+  "404": "error/err404.js"
+}
